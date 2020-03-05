@@ -13,3 +13,8 @@
   color: black;
   font-size: 10px;
 }
+
+.section {
+  color: blue;
+  border-radius: 10px;
+}
