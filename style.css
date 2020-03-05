@@ -7,5 +7,9 @@
 .main {
   font-size: 10px;
   color: blue;
-  
+}
+
+.border: {
+  color: black;
+  font-size: 10px;
 }
