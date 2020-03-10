@@ -28,3 +28,10 @@ footer {
   border-radius: 10px;
   opacity: inherit;
 }
+
+.exit {
+  color: grey;
+  border-radius: 10px;
+  opacity: inherit;
+
+}
