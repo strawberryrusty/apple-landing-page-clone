@@ -27,11 +27,13 @@ footer {
   color: grey;
   border-radius: 10px;
   opacity: inherit;
+  background-color: blue;
 }
 
 .exit {
   color: grey;
   border-radius: 10px;
   opacity: inherit;
+  background-color: red;
 
 }
