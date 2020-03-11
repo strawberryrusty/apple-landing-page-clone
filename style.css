@@ -23,7 +23,14 @@
   border-radius: 10px;
 }
 
-footer {
+.footer {
+  color: grey;
+  border-radius: 10px;
+  opacity: inherit;
+  background-color: blue;
+}
+
+.header {
   color: grey;
   border-radius: 10px;
   opacity: inherit;
