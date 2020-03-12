@@ -44,3 +44,11 @@
   background-color: red;
 
 }
+
+.entry {
+  color: orange;
+  border-radius: 10px;
+  opacity: inherit;
+  background-color: blue;
+
+}
