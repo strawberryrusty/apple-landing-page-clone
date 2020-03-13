@@ -20,6 +20,27 @@
   opacity: inherit;
 }
 
+.border: {
+  color: black;
+  font-size: 10px;
+  border-radius: 10px;
+  opacity: inherit;
+}
+
+.inbetween: {
+  color: black;
+  font-size: 10px;
+  border-radius: 10px;
+  opacity: inherit;
+}
+
+.intro: {
+  color: black;
+  font-size: 10px;
+  border-radius: 10px;
+  opacity: inherit;
+}
+
 
 
 .section {
