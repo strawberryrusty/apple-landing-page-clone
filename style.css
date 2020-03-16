@@ -86,7 +86,16 @@
 
 }
 
+
 .button {
+  color: orange;
+  border-radius: 10px;
+  opacity: inherit;
+  background-color: blue;
+
+}
+
+.button1 {
   color: orange;
   border-radius: 10px;
   opacity: inherit;
