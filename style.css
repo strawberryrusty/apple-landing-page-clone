@@ -20,13 +20,6 @@
   opacity: inherit;
 }
 
-.border2 {
-  color: black;
-  font-size: 10px;
-  border-radius: 10px;
-  opacity: inherit;
-}
-
 .inbetween {
   color: black;
   font-size: 10px;
@@ -78,7 +71,12 @@
   border-radius: 10px;
   opacity: inherit;
   background-color: blue;
-
+}
+.entry2 {
+  color: orange;
+  border-radius: 10px;
+  opacity: inherit;
+  background-color: blue;
 }
 
 .toggle {
