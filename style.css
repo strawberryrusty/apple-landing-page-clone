@@ -41,9 +41,12 @@
   opacity: inherit;
 }
 
-
-
 .section {
+  color: blue;
+  border-radius: 10px;
+}
+
+.section2 {
   color: blue;
   border-radius: 10px;
 }
