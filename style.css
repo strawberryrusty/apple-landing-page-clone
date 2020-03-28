@@ -20,7 +20,7 @@
   opacity: inherit;
 }
 
-.border {
+.border2 {
   color: black;
   font-size: 10px;
   border-radius: 10px;
@@ -86,40 +86,7 @@
 
 }
 
-.toggle2 {
-  color: orange;
-  border-radius: 10px;
-  opacity: inherit;
-  background-color: blue;
-
-}
-
-.toggle3 {
-  color: orange;
-  border-radius: 10px;
-  opacity: inherit;
-  background-color: blue;
-
-}
-
-
 .button {
-  color: orange;
-  border-radius: 10px;
-  opacity: inherit;
-  background-color: blue;
-
-}
-
-.button1 {
-  color: orange;
-  border-radius: 10px;
-  opacity: inherit;
-  background-color: blue;
-
-}
-
-.button2 {
   color: orange;
   border-radius: 10px;
   opacity: inherit;
