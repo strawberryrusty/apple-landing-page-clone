@@ -87,6 +87,13 @@
 
 }
 
+.toggle {
+  color: yellow;
+  border-radius: 8px;
+  opacity: inherit;
+  background-color: blue;
+}
+
 .button {
   color: orange;
   border-radius: 10px;
