@@ -13,15 +13,16 @@
   border-radius: 10px;
 }
 
+
 .border {
-  color: black;
+  color: blue;
   font-size: 10px;
   border-radius: 10px;
   opacity: inherit;
 }
 
 .inbetween {
-  color: black;
+  color: orange;
   font-size: 10px;
   border-radius: 10px;
   opacity: inherit;
@@ -40,7 +41,7 @@
 }
 
 .footer {
-  color: grey;
+  color: red;
   border-radius: 10px;
   opacity: inherit;
   background-color: blue;
