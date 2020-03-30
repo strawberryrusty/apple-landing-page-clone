@@ -39,17 +39,6 @@
   border-radius: 10px;
 }
 
-
-.section2 {
-  color: blue;
-  border-radius: 10px;
-}
-
-.section2 {
-  color: orange;
-  border-radius: 10px;
-}
-
 .footer {
   color: grey;
   border-radius: 10px;
@@ -79,21 +68,12 @@
   background-color: blue;
 }
 
-
-
 .toggle {
   color: orange;
   border-radius: 10px;
   opacity: inherit;
   background-color: blue;
 
-}
-
-.toggle2 {
-  color: yellow;
-  border-radius: 8px;
-  opacity: inherit;
-  background-color: blue;
 }
 
 .button {
