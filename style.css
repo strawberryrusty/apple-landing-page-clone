@@ -89,3 +89,10 @@
   opacity: inherit;
   background-color: blue;
 }
+
+.button2 {
+  color: red;
+  border-radius: 10px;
+  opacity: inherit;
+  background-color: blue;
+}
