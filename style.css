@@ -13,6 +13,12 @@
   border-radius: 10px;
 }
 
+.selector {
+  color: purple;
+  font-size: 9px;
+  border-radius: 10px;
+
+}
 
 .border {
   color: blue;
@@ -96,6 +102,7 @@
   opacity: inherit;
   background-color: blue;
 }
+
 .button3 {
   color: blue;
   border-radius: 10px;
