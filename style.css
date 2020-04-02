@@ -83,17 +83,10 @@
   background-color: blue;
 }
 
-.toggle3 {
-  color: red;
-  border-radius: 8px;
-  opacity: inherit;
-  background-color: blue;
-}
 
 .button {
   color: orange;
   border-radius: 10px;
-  opacity: inherit;
   background-color: blue;
 }
 
