@@ -84,14 +84,6 @@
   background-color: blue;
 }
 
-.exit {
-  color: grey;
-  border-radius: 8px;
-  opacity: inherit;
-  background-color: red;
-
-}
-
 .entry {
   color: orange;
   border-radius: 10px;
