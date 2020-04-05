@@ -105,6 +105,13 @@
   background-color: blue;
 }
 
+.toggle3 {
+  color: red;
+  border-radius: 12px;
+  opacity: inherit;
+  background-color: blue;
+}
+
 .button {
   color: orange;
   border-radius: 10px;
