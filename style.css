@@ -53,11 +53,6 @@
   border-radius: 10px;
 }
 
-.section2 {
-  color: green;
-  border-radius: 10px;
-}
-
 .footer {
   color: red;
   border-radius: 8px;
@@ -97,9 +92,4 @@
   color: blue;
   border-radius: 10px;
   opacity: inherit;
-}
-
-.button4 {
-  color: orange;
-  border-radius: 10px;
 }
