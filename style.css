@@ -20,6 +20,12 @@
   border-radius: 10px;
 }
 
+.avatar{
+  color: red;
+  font-size: 10px;
+  border-radius: 9px;
+}
+
 .border {
   color: blue;
   font-size: 10px;
