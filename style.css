@@ -22,7 +22,7 @@
   background-color: orange;
 }
 
-.border {
+.border2 {
   color: red;
   font-size: 10px;
   border-radius: 10px;
@@ -47,6 +47,7 @@
 .section {
   color: blue;
   border-radius: 10px;
+  opacity: inherit;
 }
 
 .footer {
