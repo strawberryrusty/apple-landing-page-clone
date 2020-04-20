@@ -63,6 +63,13 @@
   background-color: blue;
 }
 
+.footer2 {
+  color: orange;
+  border-radius: 8px;
+  opacity: inherit;
+  background-color: blue;
+}
+
 .header {
   color: grey;
   border-radius: 10px;
