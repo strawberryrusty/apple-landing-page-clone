@@ -36,6 +36,13 @@
   background-color: blue;
 }
 
+.footer2 {
+  color: purple;
+  border-radius: 8px;
+  opacity: inherit;
+  background-color: red;
+}
+
 .header {
   color: grey;
   border-radius: 10px;
