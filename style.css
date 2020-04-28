@@ -57,6 +57,12 @@
   background-color: blue;
 }
 
+.button2 {
+  color: purple;
+  border-radius: 10px;
+  background-color: red;
+}
+
 .end {
   color: red;
   border-radius: 10px;
